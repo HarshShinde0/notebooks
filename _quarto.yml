@@ -4,13 +4,13 @@ project:
 book:
   title: "Notebook Collections"
   author: "Harsh Shinde"
-  date: "2026"
+  date: "February 19, February 19, 2026"
   search: true
   repo-url: https://github.com/HarshShinde0/notebooks
   page-navigation: true
   sidebar:
    search: true
-   logo: "https://img.icons8.com/scribby/120/comet.png"
+   logo: "https://img.icons8.com/scribby/110/comet.png"
   page-footer:
     left: "Notebooks"
     center: "License: Apache"
