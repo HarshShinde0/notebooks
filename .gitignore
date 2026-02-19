@@ -1,0 +1,80 @@
+# Quarto build outputs
+/_book/
+/_site/
+/.quarto/
+_book/
+_site/
+.quarto/
+
+# Quarto cache and temp files
+*_cache/
+*_files/
+/.luarc.json
+.Rproj.user
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# R
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.sublime-project
+*.sublime-workspace
+
+# Node modules (if using any JS tools)
+node_modules/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+
+# Data files (uncomment if you don't want to push large datasets)
+# *.csv
+# *.zip
+# *.tar.gz
+# *.h5
+# *.hdf5
+# *.parquet

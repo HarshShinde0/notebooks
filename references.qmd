@@ -1,0 +1,73 @@
+---
+title: "References"
+format: html
+---
+
+Here are some helpful resources and references mentioned throughout this portfolio.
+
+## Data Science & Analysis
+
+* [Python for Data Analysis](https://wesmckinney.com/book/) by Wes McKinney
+* [Pandas Documentation](https://pandas.pydata.org/docs/)
+* [NumPy Documentation](https://numpy.org/doc/)
+* [Matplotlib Documentation](https://matplotlib.org/stable/index.html)
+* [Seaborn Documentation](https://seaborn.pydata.org/)
+* [Plotly Documentation](https://plotly.com/python/)
+
+## Machine Learning
+
+* [Scikit-learn Documentation](https://scikit-learn.org/stable/)
+* [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) by Google
+* [Introduction to Statistical Learning](https://www.statlearning.com/)
+* [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/) by Christopher Bishop
+
+## Deep Learning
+
+* [Deep Learning Book](https://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
+* [TensorFlow Documentation](https://www.tensorflow.org/)
+* [Keras Documentation](https://keras.io/)
+* [PyTorch Documentation](https://pytorch.org/docs/)
+* [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+* [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) by Andrew Ng
+
+## Natural Language Processing
+
+* [Natural Language Processing with Python](https://www.nltk.org/book/)
+* [NLTK Documentation](https://www.nltk.org/)
+* [spaCy Documentation](https://spacy.io/)
+* [Hugging Face Transformers](https://huggingface.co/docs/transformers/)
+
+## Computer Vision
+
+* [OpenCV Documentation](https://docs.opencv.org/)
+* [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/) by Richard Szeliski
+* [PIL/Pillow Documentation](https://pillow.readthedocs.io/)
+
+## Remote Sensing & Satellite Imagery
+
+* [Rasterio Documentation](https://rasterio.readthedocs.io/)
+* [GDAL Documentation](https://gdal.org/)
+* [Sentinel Hub](https://www.sentinel-hub.com/)
+* [Google Earth Engine](https://earthengine.google.com/)
+
+## Datasets
+
+* [Kaggle Datasets](https://www.kaggle.com/datasets)
+* [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/)
+* [Google Dataset Search](https://datasetsearch.research.google.com/)
+* [AWS Open Data](https://registry.opendata.aws/)
+
+## Tools & Platforms
+
+* [Jupyter Project](https://jupyter.org/)
+* [Google Colab](https://colab.research.google.com/)
+* [Quarto](https://quarto.org/)
+* [GitHub](https://github.com/)
+
+## Online Communities
+
+* [Stack Overflow](https://stackoverflow.com/)
+* [Kaggle Community](https://www.kaggle.com/discussions)
+* [Reddit r/datascience](https://www.reddit.com/r/datascience/)
+* [Reddit r/MachineLearning](https://www.reddit.com/r/MachineLearning/)
+* [Towards Data Science](https://towardsdatascience.com/)

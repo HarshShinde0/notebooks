@@ -1,0 +1,65 @@
+project:
+  type: book
+
+book:
+  title: "Notebook Collections"
+  author: "Harsh Shinde"
+  date: "2026"
+  search: true
+  repo-url: https://github.com/HarshShinde0/notebooks
+  page-navigation: true
+  sidebar:
+   search: true
+   logo: "https://img.icons8.com/scribby/120/comet.png"
+  page-footer:
+    left: "Notebooks"
+    center: "License: Apache"
+    right:
+      - icon: github
+        href: https://github.com/HarshShinde0/notebooks
+
+  chapters:
+    - index.qmd
+    - part: "**Notebooks**"
+      chapters:
+        - text: "Analyzing TV Data: Super Bowl Games, Viewership, and Halftime Shows"
+          file: Analyzing-TV-Data/notebook.ipynb
+        - text: "Investigating Netflix Movies from the 1990s"
+          file: Investigating-Netflix-Movies/notebook.ipynb
+        - text: "COVID-19 Vaccines Analysis with Python"
+          file: COVID19-Vaccines-Analysis-Python/covid-19-vaccines-analysis-with-python.ipynb
+        - text: "Cat vs Dog Image Classification using CNN"
+          file: cat-vs-dog-prediction-cnn/cat-vs-dog-prediction-cnn.ipynb
+        - text: "Land Cover Classification with Python"
+          file: Land-Cover-Classification-Python/Land_Cover_Classification_with_Python.ipynb
+        - text: "Semantic Segmentation of Satellite Imagery"
+          file: Semantic-segmentation-of-Satellite-Imagery/satellite-imagery.ipynb
+        - text: "Movie Recommendation System"
+          file: Movie-Recommendation-System/movie-recommendation-system.ipynb
+        - text: "Chatbot using URL with Python and NLTK"
+          file: chatbot-using-url-with-python-using-nltk-harshinde/chatbot using url with python using nltk.ipynb
+        - text: "Bayesian Network for Weather Prediction"
+          file: Bayesian-Network-for-Weather-Prediction/bayesian-network-for-weather-prediction.ipynb
+        - text: "Torrent2Drive: Download Torrents to Google Drive"
+          file: Torrent2Drive/Torrent2Drive.ipynb
+        - text: "URL to Google Drive: Direct File Transfer"
+          file: url-to-gdrive/url_to_gdrive.ipynb
+    - references.qmd
+
+execute:
+  eval: false
+  timeout: 300
+  error: false
+  warning: false
+  echo: true
+  
+format:
+  html:
+    number-sections: false
+    theme:
+      - cosmo
+    include-in-header: "plausible.html"
+    code-tools: false
+    code-block-bg: true
+    code-block-border-left: "#31BAE9"
+    highlight-style: github

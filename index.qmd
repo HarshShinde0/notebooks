@@ -1,0 +1,46 @@
+---
+title: "Notebook Collections"
+format: html
+---
+
+## Welcome
+
+This is a collection of data science, machine learning, and artificial intelligence notebooks. Each notebook demonstrates practical implementations using real-world datasets, covering everything from exploratory data analysis to advanced deep learning applications.
+
+## What You'll Find Here
+
+This collection includes diverse data science and machine learning notebooks:
+
+- **Super Bowl Analysis**: Analyzing game outcomes, TV viewership, and halftime show performances
+- **Netflix Movies Study**: Investigating 1990s movie characteristics and trends
+- **COVID-19 Vaccines Analysis**: Global vaccination data analysis and visualization
+- **Cat vs Dog Image Classification**: CNN-based image classifier
+- **Land Cover Classification**: Random Forest classifier for satellite imagery
+- **Semantic Segmentation**: Deep learning for satellite image segmentation
+- **Movie Recommendation System**: Content-based recommendation engine
+- **Chatbot with NLTK**: Web scraping-based conversational agent using natural language processing
+- **Bayesian Networks**: Probabilistic reasoning for weather prediction
+- **Utility Tools**: Automation scripts for file transfers and cloud storage integration
+
+## About These Notebooks
+
+Each notebook demonstrates:
+
+- **Practical Implementation**: Real-world datasets and problems
+- **End-to-End Workflows**: From data loading to model evaluation
+- **Modern Tools**: Python, TensorFlow, PyTorch, scikit-learn, pandas, and more
+- **Clear Documentation**: Step-by-step explanations and visualizations
+- **Reproducible Results**: Well-documented code in Jupyter Notebooks
+
+## Technologies Used
+
+- **Languages**: Python
+- **Data Analysis**: pandas, numpy, matplotlib, seaborn, plotly
+- **Machine Learning**: scikit-learn, XGBoost
+- **Deep Learning**: TensorFlow, Keras, PyTorch
+- **Computer Vision**: OpenCV, rasterio
+- **Other Tools**: Jupyter Notebooks, Google Colab
+
+---
+
+*Use the sidebar navigation to explore individual projects and notebooks.*
