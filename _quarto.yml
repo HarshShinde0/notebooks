@@ -1,5 +1,6 @@
 project:
   type: book
+  output-dir: _book
 
 book:
   title: "Notebook Collections"
@@ -63,3 +64,4 @@ format:
     code-block-bg: true
     code-block-border-left: "#31BAE9"
     highlight-style: github
+
